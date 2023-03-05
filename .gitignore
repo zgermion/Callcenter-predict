@@ -2,3 +2,5 @@ data
 catboost_info
 .ipynb_checkpoints
 eda_0.ipynb
+data_train_new.csv
+data_test_new.csv
